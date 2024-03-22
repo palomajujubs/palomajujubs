@@ -37,7 +37,7 @@
 const Paloma = {
   linguagens: [Python, PHP, SQL],
   frameworks: [FastAPI, Django, Laravel, Bootstrap],
-  ferramentas: [PostgreSQL, SQLalchemy, MySQL],
+  ferramentas: [PostgreSQL, SQLalchemy, MySQL, Pydantic ],
   desafio: "Estar em constante Aprendizado"
 }
 ```
