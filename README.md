@@ -34,7 +34,7 @@
 </div>
 
 ```javascript
-const yuri = {
+const Paloma = {
   linguagens: [Python, PHP, SQL],
   frameworks: [FastAPI, Django, Laravel, Bootstrap],
   ferramentas: [PostgreSQL, SQLalchemy, MySQL],
