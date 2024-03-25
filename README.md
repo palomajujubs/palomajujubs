@@ -31,6 +31,10 @@
 <a href="https://github.com/palomajujubs">
   <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomajujubs&hide_border=true&layout=compact&theme=radical" alt="stats" />
 </a>  
+<br>
+<br>
+<br>
+<br>
 </div>
 
 ```javascript
