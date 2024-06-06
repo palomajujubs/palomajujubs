@@ -24,12 +24,7 @@
 </div>
 
 <div style="display: inline-block" align="left">
-<a href="https://github.com/palomajujubss">
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=palomajujubs&hide=issues,contribs=true&theme=radical&include_all_commits=true&count_private=false" />
-</a> 
-  
-<a href="https://github.com/palomajujubs">
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomajujubs&hide_border=true&layout=compact&theme=radical" alt="stats" />
+
 </a>  
 <br>
 <br>
